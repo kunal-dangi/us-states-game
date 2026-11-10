@@ -8,7 +8,7 @@ Built with Python while learning (part of my [PythonProject](https://github.com/
 
 ## Download (macOS)
 
-Grab **US States Game.dmg** from the [latest release](https://github.com/kunal-dangi/us-states-game/releases/latest), open it, and drag **US States Game** into Applications.
+Grab the **.dmg** from the [latest release](https://github.com/kunal-dangi/us-states-game/releases/latest), open it, and drag **US States Game** into Applications.
 
 The app isn't notarized by Apple, so the first launch will be blocked. Either right-click the app → **Open**, or run:
 
