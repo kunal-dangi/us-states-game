@@ -1,0 +1,8 @@
+build/
+dist/
+*.spec
+__pycache__/
+data.txt
+data.json
+remaining.csv
+.DS_Store
